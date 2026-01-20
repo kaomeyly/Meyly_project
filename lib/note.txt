@@ -1,0 +1,17 @@
+- Itunes(Windows)
+- sideloadly
+- AppleID
+- ipa File we call flutter build ipa --release(Mas Only)
+
+- push code into github and then workflow vm(MacOs) ->ipa file -> sideload into iphone
+
+- git init
+    - remote : link go to github repos 2 option it import to github
+        - origin or onther u want to call
+        - branch : folder name
+
+for add to github
+- git init
+- git add. (full of ptoject)
+- git commit -m "name u want to tell sb"
+- git push origin branch(for name of folder to push)
